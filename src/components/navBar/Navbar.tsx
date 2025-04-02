@@ -1,5 +1,5 @@
 import { useState } from "react"
-import viktor from '../../img/viktor.jpeg'
+import neutron from '../../img/neutron.png'
 import './navbar.css'
 
 
@@ -14,7 +14,7 @@ export const NavBar = () =>{
     return(
         <header>
             <div className="logo">
-                <img src={viktor} alt="" />
+                <img src={neutron} alt="" />
             </div>
             <nav>
                 {

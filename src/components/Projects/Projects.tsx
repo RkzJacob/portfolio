@@ -7,6 +7,7 @@ import nodejsLogo from '../../img/nodejs.svg'
 import reactLogo from '../../img/react.svg'
 import tsLogo from '../../img/typescript.svg'
 import expressLogo from '../../img/express.svg'
+import bigeoLogo from '../../img/bigeo.jpeg'
 
 
 export const Projects = ({id}: {id:string}) =>{
@@ -38,7 +39,7 @@ export const Projects = ({id}: {id:string}) =>{
             lenguajes:"HTML 5 JS TS",
             logosfront:[reactLogo,tsLogo,expressLogo],
             logosbackend:[nodejsLogo,tsLogo,expressLogo],
-            images: projects,
+            images: bigeoLogo,
             links:"https://github.com/RkzJacob/GITHUB",
         }
     ])

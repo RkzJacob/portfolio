@@ -31,7 +31,7 @@ export const Home = ({id}: {id:string}) =>{
                             </li>
                             <li className="cv">
                                 <a href={pdf}>
-                                    <i className="fa-solid fa-link "></i>
+                                    <i className="fa-solid fa-link dffd"></i>
                                 </a>
                             </li>
                         </ul>
