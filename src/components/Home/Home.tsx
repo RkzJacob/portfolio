@@ -2,10 +2,12 @@ import jinx from '../../img/jacob.png'
 import './Home.css'
 import pdf from '../../assets/cv.pdf'
 
+
+
 export const Home = ({id}: {id:string}) =>{
     return(
         
-        <section className="home" id='home'>
+        <section className="home" id={id}>
             <div className="content">
                 <div className="name">
                     <div className='namejacob'>

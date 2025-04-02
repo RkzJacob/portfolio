@@ -67,7 +67,7 @@ export const Skills = ({id}: {id:string}) =>{
         
     ])
     return(
-        <section className='Skills' id='skills'>
+        <section className='Skills' id={id}>
                 <div className='skill-title'>
                     <h3>Mis Skills</h3>
                 </div>

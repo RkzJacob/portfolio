@@ -44,7 +44,7 @@ export const Projects = ({id}: {id:string}) =>{
         }
     ])
     return(
-        <section className="projects" id="projects">
+        <section className="projects" id={id}>
             <div className="title">
                 Mis proyectos
             </div>
