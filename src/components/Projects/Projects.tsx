@@ -20,7 +20,7 @@ export const Projects = ({id}: {id:string}) =>{
             logosbackend:[nodejsLogo,graphql,tsLogo],
             lenguajes:"React TypeScript GRAHPQL",
             images: projects,
-            links:"https://github.com/RkzJacob/FRONT-CLONE-HBOMAX"
+            links:"https://front-clone-hbomax.onrender.com/"
         },
         {
             name:"Like Real",
