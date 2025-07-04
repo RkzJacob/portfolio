@@ -1,4 +1,4 @@
-import jinx from '../../img/jacob.png'
+import jinx from '../../img/yo.png'
 import './Home.css'
 import pdf from '../../assets/cv.pdf'
 
